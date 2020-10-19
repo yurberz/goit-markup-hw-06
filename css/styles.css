@@ -631,7 +631,6 @@ input:focus + .svg-modal {
 
 /* Секция Наша команда */
 .ourteam-section {
-  max-width: 1600px;
   margin-left: auto;
   margin-right: auto;
   background-color: #f5f4fa;
@@ -766,7 +765,6 @@ input:focus + .svg-modal {
 
 /*  Подвал страницы */
 .footer {
-  width: 1600px;
   margin-left: auto;
   margin-right: auto;
   padding-top: 60px;
